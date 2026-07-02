@@ -1,0 +1,17 @@
+{
+  "name": "api-productos",
+  "version": "1.0.0",
+  "description": "API de registro y consulta de productos - Clase 2",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["productos", "api", "sena"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
